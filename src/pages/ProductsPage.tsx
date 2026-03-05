@@ -120,7 +120,5 @@ export default function ProductsPage() {
       </Dialog>
     </Box>
   );
-}git add .
-  git commit -m "fix build error"
-git push
+}
 
