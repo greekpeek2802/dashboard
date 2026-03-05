@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import {
-  Box, Typography, Paper, Grid, Card, CardContent, CardActions,
+  Box, Typography, Grid, Card, CardContent, CardActions,
   Button, Chip, IconButton, Dialog, DialogTitle, DialogContent,
   DialogActions, TextField, Tooltip
 } from '@mui/material';
