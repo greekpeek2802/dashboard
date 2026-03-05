@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import {
-  Box, Typography, Grid, Card, CardContent, CardActions,
+  Box, Typography, Paper, Grid, Card, CardContent, CardActions,
   Button, Chip, IconButton, Dialog, DialogTitle, DialogContent,
   DialogActions, TextField, Tooltip
 } from '@mui/material';
@@ -121,4 +121,3 @@ export default function ProductsPage() {
     </Box>
   );
 }
-
