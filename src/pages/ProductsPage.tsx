@@ -4,14 +4,6 @@ import {
   Button, Chip, IconButton, Dialog, DialogTitle, DialogContent,
   DialogActions, TextField, Tooltip
   import { Paper } from "@mui/material"
-
-function ProductsPage() {
-  return (
-    <Paper>
-      Products
-    </Paper>
-  )
-}
 } from '@mui/material';
 import DeleteIcon from '@mui/icons-material/Delete';
 import AddIcon from '@mui/icons-material/Add';
